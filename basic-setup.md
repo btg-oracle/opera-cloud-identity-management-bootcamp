@@ -1,4 +1,4 @@
-# Basic Setup
+# End User and Administartor Journey
 
 ## Login to OPERA Cloud Identity Management Portal
 
