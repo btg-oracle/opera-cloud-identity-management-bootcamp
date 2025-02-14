@@ -1,4 +1,4 @@
-# Okta Account for Identity Federation
+# Okta Free Trial Account Setup for Identity Federation Lab
 
 
 ## Create Okta Account
